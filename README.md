@@ -26,7 +26,8 @@ Use your own images or images (wafer_defect_xxx.png) in the assets folder to tes
 
 Use the below code to reproduce the outputs shown. 
 
-# Single-image inference for wafer defect multi-label ResNet18
+
+```# Single-image inference for wafer defect multi-label ResNet18
 import torch
 from torch import nn
 from torchvision import models, transforms
@@ -86,7 +87,6 @@ def show_prediction(path, thresh=THRESH):
 # change this to your single image path. 
 test_image_path = "/content/wafer_defect_dataset131/content/wafer_defect_dataset13/_manual_holdout/wafer_defect_196.png"
 show_prediction(test_image_path)
-
 
 
 
