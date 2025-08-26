@@ -19,4 +19,7 @@ Fig 2
 
 **Left column:** raw SWIR input and predicted output (labels shown under each).  
 **Right column:** brightness-enhanced versions for human visibility.  
-**Note:** SWIR captures are inherently low-brightness; some scratches are only visible via the model’s attention (e.g., Grad-CAM) and not to the naked eye.
+**Note:** SWIR captures are inherently low-brightness; some scratches are only visible via the model’s attention and not to the naked eye.
+
+The trained ResNet18 weights can be downloaded from the [Releases page](https://github.com/<your-username>/<repo-name>/releases).
+
