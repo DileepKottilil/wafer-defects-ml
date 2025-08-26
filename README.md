@@ -1,7 +1,11 @@
 # wafer-defects-ml
 Physics-inspired wafer defect detection: code and recipes to fine-tune a multi-label ResNet18, and classify particles, scratches, and refractive index halos based on short wave infrared upconverted microscope images.
 <p align="center">
-  <img src="assets/example_grid.png" width="85%">
+  <img src="assets/download (1).png" width="85%">
+</p>
+
+<p align="center">
+  <img src="assets/output 1.png" width="85%">
 </p>
 
 **Left column:** raw SWIR input and predicted output (labels shown under each).  
