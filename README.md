@@ -21,5 +21,7 @@ Fig 2
 **Right column:** brightness-enhanced versions for human visibility.  
 **Note:** SWIR captures are inherently low-brightness; some scratches are only visible via the model’s attention and not to the naked eye.
 
-The trained ResNet18 weights can be downloaded from the [Releases page](https://github.com/<your-username>/<repo-name>/releases).
+The trained ResNet18 weights can be downloaded from the [Releases page](https://github.com/DileepKottilil/wafer-defects-ml/releases/tag/model).
+Use your own images or images (wafer_defect_xxx.png) in the assets folder to test the model.
+
 
