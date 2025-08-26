@@ -3,6 +3,8 @@ Physics-inspired wafer defect detection: code and recipes to fine-tune a multi-l
 
 THe below figures has 4 sub plots. The first column contains input (directly from experiments) and output images (from the trained resnet18 model). THe second column contains both the same images but brighter versions to show where the defects/contaminations are. With naked eye or camera, it is not possible to see the defects/contaminations from the experiments. 
 
+The output classes of the model are written wlong with these subplots.
+
 Fig 1
 <p align="center">
   <img src="assets/download (1).png" width="85%">
