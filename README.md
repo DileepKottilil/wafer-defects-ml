@@ -5,7 +5,7 @@ Physics-inspired wafer defect detection: code and recipes to fine-tune a multi-l
 </p>
 
 <p align="center">
-  <img src="assets/output 1.png" width="85%">
+  <img src="assets/output1.png" width="85%">
 </p>
 
 **Left column:** raw SWIR input and predicted output (labels shown under each).  
