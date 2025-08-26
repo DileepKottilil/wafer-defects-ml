@@ -24,7 +24,7 @@ Fig 2
 The trained ResNet18 weights can be downloaded from the [Releases page](https://github.com/DileepKottilil/wafer-defects-ml/releases/tag/model).
 Use your own images or images (wafer_defect_xxx.png) in the assets folder to test the model.
 
-Use the below code to reproduce the outputs shown. 
+Use the below code to predict the defects of your input image. You need to write your own code to exactly reproduce the output as shown above. 
 
 
 ```# Single-image inference for wafer defect multi-label ResNet18
